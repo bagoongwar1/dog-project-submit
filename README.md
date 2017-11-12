@@ -5,6 +5,6 @@
 This is the jupyter notebook file
 #### report.pdf
 This is the notebook file in .pdf
-#### images/*
+#### my_images/*
 This folder contains the images used in Step 7
 
